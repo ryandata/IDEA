@@ -13,8 +13,8 @@ Consult the Rutgers Libraries [Libguides](https://libguides.rutgers.edu/), parti
 
 - [Census Data Portal](https://data.census.gov) portal to US Census information (major source of demographics)
 - [Sage Data](https://www.libraries.rutgers.edu/databases/data-planet) compilation of official summary statistics
-- [Statista](https://www.libraries.rutgers.edu/databases/statista)
-- [Social Explorer]() easy to browse, map-based guide to Census and other demographic data
+- [Statista](https://www.libraries.rutgers.edu/databases/statista) quick lookup of current facts
+- [Social Explorer](https://www.libraries.rutgers.edu/databases/socialexplorer) easy to browse, map-based guide to Census and other demographic data
 
 ### Datasets (data not in summary form)
 
